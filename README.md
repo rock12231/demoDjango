@@ -1,0 +1,2 @@
+# demoDjango
+Using Numpy lib 
